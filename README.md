@@ -1,6 +1,6 @@
-# IT 202
+# IT 2021
 
-This repo will contain all programmes which I which I have completed in accordance with the SAHETI IT GR1 syllabus
+This repo will contain all programmes which I which I have completed in accordance with the SAHETI IT GR11 syllabus
 NOTE:
 - Code is not maintained
 - Code was written badly
